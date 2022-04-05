@@ -6,7 +6,8 @@ Usage
 Installation
 ------------
 
-New Installation
+New Pull Installation
+
 To use Lumache, first install it using pip:
 
 .. code-block:: console
